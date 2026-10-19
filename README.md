@@ -34,7 +34,8 @@ Most of the frontend built by me, except for the User registration.
 ### 🔐 Security
 
 **[Application Hacking & Vulnerabilities](https://github.com/JoneHyttinen/sovellusten-hakkerointi)** · *Haaga-Helia course, grade 5/5*
-Reports for each of the Application Hacking & Vulnerabilities courses homework assignments. [Course Information](https://terokarvinen.com/application-hacking/)
+Reports for each of the Application Hacking & Vulnerabilities courses homework assignments. 
+[Course Information](https://terokarvinen.com/application-hacking/)
 `Linux` `Bash` `Web security` `C` `gdb` `Ghidra` `Reverse Engineering` `ffuf` `Web Fuzzing`
 
 ### 🚧 In the works
