@@ -16,13 +16,16 @@ A Spring Boot app for browsing artists and albums and writing reviews. It has ro
 and Finnish/English localization. Runs on H2 locally and PostgreSQL in production via Docker.
 `Java 17` `Spring Boot` `Spring Security` `JPA` `PostgreSQL` `Thymeleaf` `Docker`
 
-**[FinSight](https://github.com/CodeBuaters/Finance-FrontEnd)** · *Software Project 2, team project*
-A personal finance dashboard with budgets, expense charts, and CSV import of bank transactions.
-Built in a team with feature branches, pull request reviews, and CI.
+**FinSight** · *Software Project 2, team project*
+A personal finance dashboard: import bank transactions from CSV, categorize them automatically,
+and track spending with budgets and charts. Built in a team with feature branches, PR reviews, and CI.
 
-`React` `TypeScript` `Vite` `Recharts` `GitHub Actions`
-
-I built the Dashboard, Transactions and CSV Import pages, along with tests and other UI components and polish.
+- **[Backend](https://github.com/CodeBuaters/Finance-BackEnd)**: Spring Boot REST API with JWT authentication.
+  I built the CSV import, the automatic transaction categorization service, the User and Transaction entities, Transaction handling, and more.
+  `Java 17` `Spring Boot` `Spring Security` `JPA` `PostgreSQL` `Docker` `GitHub Actions`
+- **[Frontend](https://github.com/CodeBuaters/Finance-FrontEnd)**: React dashboard.
+  I built the Dashboard, Transactions, and CSV Import pages, plus tests and shared UI components.
+  `React` `TypeScript` `Vite` `Recharts`
 
 **[Team 3 project](https://github.com/Team-3-OP1/k26Tiimi3FrontEnd)** · *Software Project 1, team project*
 A product catalog and reservation app. Users can browse products by manufacturer, sign in,
