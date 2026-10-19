@@ -50,7 +50,7 @@ Reports for each of the Application Hacking & Vulnerabilities courses homework a
 
 **Also use:** TypeScript · React · C++ · Docker
 
-**Daily driver:** CachyOS + Hyprland · Neovim (LazyVim). [My dotfiles](https://github.com/JoneHyttinen/sakurai-dots)
+**Daily driver:** CachyOS + Hyprland · Quickshell · Neovim (LazyVim). [My dotfiles](https://github.com/JoneHyttinen/sakurai-dots)
 
 ### 🎧 Outside of coding
 Music (it keeps showing up in my projects), Counter-Strike 2, and spending too much time configuring Linux.
