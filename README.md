@@ -20,6 +20,7 @@ and Finnish/English localization. Runs on H2 locally and PostgreSQL in productio
 A personal finance dashboard with budgets, expense charts, and CSV import of bank transactions.
 Built in a team with feature branches, pull request reviews, and CI.
 `React` `TypeScript` `Vite` `Recharts` `GitHub Actions`
+
 I built the Dashboard, Transactions and CSV Import pages, along with tests and other UI components and polish.
 
 **[Team 3 project](https://github.com/Team-3-OP1/k26Tiimi3FrontEnd)** · *Software Project 1, team project*
@@ -27,6 +28,7 @@ A product catalog and reservation app. Users can browse products by manufacturer
 reserve products, and manage or cancel their own reservations. Includes a light/dark theme
 and is deployed on Rahti (OpenShift).
 `React` `TypeScript` `React Router` `Material UI` `Docker` `OpenShift`
+
 Most of the frontend built by me, except for the User registration.
  
 ### 🔐 Security
