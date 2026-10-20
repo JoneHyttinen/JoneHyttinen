@@ -3,9 +3,6 @@
 Software engineering student at **Haaga-Helia UAS** in Helsinki, heading toward **backend development**.
 I like building APIs and figuring out how things work under the hood: databases, Linux, and lately emulators.
 
-🔍 **Looking for an internship** in backend or full-stack development.
-Let's talk → [LinkedIn](https://www.linkedin.com/in/jone-hyttinen-9537343a2/)
-
 ---
 
 ### 🛠️ Projects
