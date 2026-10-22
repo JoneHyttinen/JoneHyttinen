@@ -46,9 +46,9 @@ Reports for each of the Application Hacking & Vulnerabilities courses homework a
 - **[Spotify-AutoEQ](https://github.com/JoneHyttinen/Spotify-AutoEQ)**: an Electron app that switches EQ settings automatically based on the song that's playing
 
 ### 🧰 Toolbox
-**Most comfortable with:** Java · Spring Boot · SQL
+**Most comfortable with:** Java · Spring Boot · SQL · TypeScript · React
 
-**Also use:** TypeScript · React · C++ · Docker
+**Also use:** Python · C/C++ · C# · Docker
 
 **Daily driver:** CachyOS + Hyprland · Quickshell · Neovim (LazyVim). [My dotfiles](https://github.com/JoneHyttinen/sakurai-dots)
 
